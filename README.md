@@ -53,7 +53,7 @@ Atualmente, venho desenvolvendo projetos práticos voltados para análise de dad
 
 ---
 
-### 📊 Projetos em destaque ![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analytics-black)
+### 📊 Projetos em destaque ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 📌 **Dashboard de Segurança do Trabalho**  
 Análise de acidentes utilizando Power BI, DAX e SQL, com foco em indicadores de segurança, relação entre uso de EPI e gravidade, e identificação de padrões.
